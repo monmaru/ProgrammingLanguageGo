@@ -1,0 +1,2 @@
+# ProgrammingLanguageGo
+プログラミング言語Goの勉強用
