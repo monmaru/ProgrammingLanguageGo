@@ -1,4 +1,4 @@
-package PopCount2
+package popcount2
 
 var pc [256]byte
 
