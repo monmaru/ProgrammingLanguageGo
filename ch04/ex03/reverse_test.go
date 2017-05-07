@@ -2,7 +2,7 @@ package ex03
 
 import "testing"
 
-func TestEcho(t *testing.T) {
+func TestReverse(t *testing.T) {
 	s := [6]int{1, 2, 3, 4, 5, 6}
 	want := [6]int{6, 5, 4, 3, 2, 1}
 
